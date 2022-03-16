@@ -1,0 +1,14 @@
+
+.images{
+    height: 220px;
+    width: 350px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.container1{
+    background-color:forestgreen;
+    color:chartreuse;
+    margin: 15px;
+    padding: 30px;
+    border-radius: 10px;
+}

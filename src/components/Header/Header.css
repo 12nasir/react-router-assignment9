@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    background-color: blue;
+    text-align: center;
+    margin: 15px;
+    height: 70px;
+    padding: 10px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header-container{
+    margin-left: 500px;
+}
+h6{
+    margin-left: 60px;
+    color:deeppink;
+    font-weight: 700;
+    font-size: 25;
+}
+.header nav a:hover{
+    color: deeppink;
+    background-color:whitesmoke;
+    padding: 5px;
+}

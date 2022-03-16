@@ -1,0 +1,35 @@
+.home-child1 img{
+    height: 400px;
+    width: 800px;
+    padding: 10px;
+}
+.home-child1{
+    background-color: darkgreen;
+    display: flex;
+    margin: 30px;
+    padding: 15px;
+}
+
+.home-child2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color:ghostwhite;
+    grid-gap: 2px;
+    margin: 25px;
+    padding: 60px;
+    /* border: 1px solid yellowgreen; */
+}
+.home-child h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: blue;
+    margin: 15px;
+}
+.home-child p{
+    color: floralwhite;
+    font-weight: 450;
+}
+span{
+    color: coral;
+}
